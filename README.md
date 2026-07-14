@@ -1,8 +1,8 @@
 ## Hi, I'm Abisha.
 I’m a BCA student and Software Developer with a strong interest in programming, web development, and building practical projects.
 
-🔹 I have experience working with C, C++, Python, JavaScript, HTML, and CSS, and I’m currently strengthening my skills in Data Structures & Algorithms, backend development, databases, Git, and GitHub.<br/>
-🔹 I believe the best way to learn technology is by building, experimenting, and solving real problems. Alongside my studies, I work on personal projects to improve my technical and problem-solving skills while documenting my journey as a developer.<br/>
+🔹 I have experience working with C, C++, Python, JavaScript, HTML, and CSS.<br/>
+🔹 I work on personal projects to improve my technical and problem-solving skills while documenting my journey as a developer.<br/>
 🔹 I’m always open to learning opportunities, internships, collaborations, and connecting with fellow developers and professionals in tech.s<br/>
 
 # 💻 Tech Stack:
